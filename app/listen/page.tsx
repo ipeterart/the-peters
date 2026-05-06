@@ -30,7 +30,7 @@ export default function Listen() {
         }}
       >
         <a href="https://open.spotify.com/artist/187mvGLRODsnOWHqyXvU5V?si=g3MiOBrcS5CANJfqX6Ylzg" target="_blank" rel="noopener noreferrer" className="text-[#ef4136] hover:text-white">spotify</a>
-        <a href="https://soundcloud.com/info-576565901" target="_blank" rel="noopener noreferrer" className="text-[#ef4136] hover:text-white">soundcloud</a>
+        <a href="https://soundcloud.com/the_peters_music" target="_blank" rel="noopener noreferrer" className="text-[#ef4136] hover:text-white">soundcloud</a>
         <a href="https://www.youtube.com/watch?v=QWrU_Kbz3iA" target="_blank" rel="noopener noreferrer" className="text-[#ef4136] hover:text-white">youtube</a>
       </div>
 
