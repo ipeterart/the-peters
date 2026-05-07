@@ -10,8 +10,8 @@ export default function Home() {
         </div>
         <nav className="flex w-full justify-between mt-[3px] pr-[0.15em] pl-[0.25em] text-[clamp(1.28rem,3.2vw,2.56rem)] lowercase tracking-[-0.01em]" style={{ fontFamily: '"neue-haas-grotesk-display-pr", sans-serif', fontWeight: 500 }}>
           <a href="/listen" className="text-[#ef4136] hover:text-white">listen</a>
-          <a href="https://instagram.com/thepeters.us" target="_blank" rel="noopener noreferrer" className="text-[#ef4136] hover:text-white">contact</a>
-          <a href="https://positivelyrecords.la" target="_blank" rel="noopener noreferrer" className="text-[#ef4136] hover:text-white">shop</a>
+          <a href="mailto:info@thepeters.us" target="_blank" rel="noopener noreferrer" className="text-[#ef4136] hover:text-white">contact</a>
+          <a href="https://positivelyrecords.la/products/the-peters-marc-e-bassy-remixes-12-single" target="_blank" rel="noopener noreferrer" className="text-[#ef4136] hover:text-white">shop</a>
         </nav>
       </main>
     </div>
